@@ -1,0 +1,16 @@
+ASUS P5GC/1333 INTEL
+
+PC PROBLEM/ERROR:
+-PC won't boot to BIOS.
+
+-Possible Causes:
+  -Faulty RAM (or related to memory)
+    -Remove RAM and test it on a suitable test computer.
+    
+-Faulty PCI cards.
+-Panel connectors not connected properly.
+-PSU not working properly.
+-Missing power supply cables.
+  -Check the 24 pin ATX cable and
+  -4 pin and 8 pin CPU connector
+-The CPU might be dead.
